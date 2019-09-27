@@ -1,4 +1,4 @@
-FROM parrotstream/hadoop:3.0.0-cdh6.0.0
+FROM comchangs/hadoop:3.0.0-cdh6.0.0
 
 MAINTAINER Murry Jeong <comchangs@gmail.com>
 
