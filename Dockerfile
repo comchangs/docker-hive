@@ -1,6 +1,6 @@
 FROM parrotstream/hadoop:3.0.0-cdh6.0.0
 
-MAINTAINER Matteo Capitanio <matteo.capitanio@gmail.com>
+MAINTAINER Murry Jeong <comchangs@gmail.com>
 
 USER root
 
