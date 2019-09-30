@@ -20,8 +20,8 @@ For example, if you want Apache Hive release 1.1.0 you can pull the image with:
 
 Run with Docker Compose:
 
-    docker-compose -p parrot up
+    docker-compose -p comchangs up
 
 Stop with Docker Compose:
 
-    docker-compose -p parrot down
+    docker-compose -p comchangs down
