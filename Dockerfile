@@ -4,7 +4,7 @@ MAINTAINER Murry Jeong <comchangs@gmail.com>
 
 USER root
 
-ENV HIVE_VER 3.1.0
+ENV HIVE_VER 3.1.2
 ENV TEZ_VER 0.9.1
 
 ENV HIVE_HOME /opt/hive
