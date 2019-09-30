@@ -14,9 +14,9 @@ You can also find other images based on different Apache Hive releases, using a 
 
     docker pull comchangs/hive:[hive-release]-[cdh-release]
 
-For example, if you want Apache Hive release 1.1.0 you can pull the image with:
+For example, if you want latest version you can pull the image with:
 
-    docker pull comchangs/hive:1.1.0-cdh5.11.1
+    docker pull comchangs/latest
 
 Run with Docker Compose:
 
