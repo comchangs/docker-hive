@@ -25,10 +25,3 @@ Run with Docker Compose:
 Stop with Docker Compose:
 
     docker-compose -p parrot down
-
-
-### Available tags:
-
-- Apache Hive 2.1.1 ([latest](https://github.com/comchangs/docker-hive/blob/latest/Dockerfile), [2.1.1](https://github.com/comchangs/docker-hive/blob/2.1.1/Dockerfile))
-- Apache Hive 1.2.2 ([1.2.2](https://github.com/comchangs/docker-hive/blob/1.2.2/Dockerfile))
-- Apache Hive 1.1.0-cdh5.11.1 ([1.1.0-cdh5.11.1](https://github.com/comchangs/docker-hive/blob/1.1.0-cdh5.11.1/Dockerfile))
